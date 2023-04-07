@@ -23,7 +23,7 @@ Using question generation and answering models can provide several benefits for 
     - Hyphens, colons, semi-colons and full stops (-:;,) are removed
     - Slashes (\ / \ //) are removed
     - Extra spaces are removed
-2. Important key phrases are extracted from the preprocessed text
+2. **Important key phrases are extracted from the preprocessed text**
     - Preprocessed text os passed to the key phrase extraction algorithms
     - Used key phrase extraction algorithms:
       - FirstPhrases 
@@ -32,13 +32,12 @@ Using question generation and answering models can provide several benefits for 
       - TextRank 
       - TopicRank 
       - Kea 
-3. Questions are generated
+3. **Questions are generated**
     - Key phrases are passed on to the **T5 model** to generate questions
-4. Answers are generated
+4. **Answers are generated**
     - T5 model's questions are passed on to **AllenNLP** and **HayStack**
 
 ## Notebooks
-
 |                          Name                   |     Link     |
 | ----------------------------------------------  |  ----------  |
 | [Key Phrase Extraction and Question Generation](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) |
