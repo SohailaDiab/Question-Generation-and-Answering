@@ -1,6 +1,18 @@
 # Question Generation and Answering
+![image](https://user-images.githubusercontent.com/70928356/230603087-a6cac885-aea3-4289-8e98-ed101a2adc63.png)
 
-![image](https://user-images.githubusercontent.com/70928356/230590747-ba448b84-2da6-49fe-ac3d-06272f8908dd.png)
+## The Goal 
+Automatically generate questions and answers, given any piece of text.
+
+## Benefits
+Using question generation and answering models can provide several benefits for businesses. Some of these benefits include:
+- **Improved customer service:** By using question generation and answering models, businesses can quickly provide answers to customers' questions, reducing the need for human customer service representatives and improving response times.
+- **Enhanced educational content**: These models can be used to create quizzes and assessments for educational content, allowing students to test their knowledge and gain a deeper understanding of the material.
+- T**ime-saving**: Generating questions and answers manually can be a time-consuming process, particularly for large volumes of text. Using automated models can save time and resources, allowing businesses to focus on other priorities.
+
+## The Process
+![image](https://user-images.githubusercontent.com/70928356/230604555-6f1b0e3d-1075-418a-a2e6-ea4ca814b7f5.png)
+
 
 ## Notebooks
 
