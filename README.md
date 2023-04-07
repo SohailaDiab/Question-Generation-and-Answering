@@ -6,8 +6,6 @@
 
 |                          Name                   |     Link     |
 | ----------------------------------------------  |  ----------  |
-| [Key Phrase Extraction and Question Generation](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) |
-
-| Question Answering using AllenNLP                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-2-parameterization.ipynb) |
-
-| Question Answering using HayStack                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keyphrasification/hands-on-with-pke/blob/main/part-3-benchmarking-models.ipynb) |
+| [Key Phrase Extraction and Question Generation](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) |
+| [Question Answering using AllenNLP](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_AllenNLP.ipynb)                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_AllenNLP.ipynb) |
+| [Question Answering using HayStack](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_HayStack.ipynb)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_HayStack.ipynb) |
