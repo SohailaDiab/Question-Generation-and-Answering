@@ -1,0 +1,11 @@
+python==3.8
+contractions
+git+https://github.com/boudinfl/pke.git
+flashtext
+transformers
+https://github.com/patil-suraj/question_generation.git
+allennlp==2.1.0
+allennlp-models==2.1.0
+git+https://github.com/explosion/spacy-transformers
+pip
+git+https://github.com/deepset-ai/haystack.git
