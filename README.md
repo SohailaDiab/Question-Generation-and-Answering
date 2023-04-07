@@ -37,9 +37,14 @@ Using question generation and answering models can provide several benefits for 
 4. **Answers are generated**
     - T5 model's questions are passed on to **AllenNLP** and **HayStack**
 
-## Notebooks
+## Notebooks and Output Files
 |                          Name                   |     Link     |
 | ----------------------------------------------  |  ----------  |
 | [Key Phrase Extraction and Question Generation](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SohailaDiab/Question-Generation-and-Answering/blob/main/KeyExtract_QuesGen.ipynb) |
 | [Question Answering using AllenNLP](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_AllenNLP.ipynb)                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_AllenNLP.ipynb) |
 | [Question Answering using HayStack](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_HayStack.ipynb)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SohailaDiab/Question-Generation-and-Answering/blob/main/Question_Answering_HayStack.ipynb) |
+| T5 output csv file (Phrases, T5's questions & T5's answers) | [File](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/DeepLearning_T5_Output.csv) |
+| Final output csv file (Phrases, questions & answers) | [File](https://github.com/SohailaDiab/Question-Generation-and-Answering/blob/main/DeepLearning_qna.csv) |
+
+
+
